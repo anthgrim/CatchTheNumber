@@ -16,9 +16,6 @@ function start() {
   startBtn.classList.add("start-btn-disabled");
   startBtn.classList.remove("enabled");
   startBtn.disabled = true;
-  stopBtn.classList.add("enabled");
-  stopBtn.classList.remove("stop-btn-disabled");
-  stopBtn.disabled = false;
 
   countDown();
 
@@ -33,6 +30,9 @@ function start() {
   }, 3000);
 
   setTimeout(() => {
+    stopBtn.classList.add("enabled");
+    stopBtn.classList.remove("stop-btn-disabled");
+    stopBtn.disabled = false;
     move();
   }, 4000);
 }
