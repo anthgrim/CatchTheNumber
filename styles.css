@@ -1,0 +1,66 @@
+* {
+  font-family: "Roboto Mono", monospace;
+}
+
+body {
+  background-color: #1d3557;
+  color: white;
+}
+
+button {
+  color: white;
+  border: none;
+  border-radius: 15px;
+}
+
+.start-btn {
+  background-color: #2d6a4f;
+}
+
+.enabled:hover {
+  transform: scale(1.05);
+}
+
+.start-btn-disabled {
+  background-color: #52b788;
+}
+
+.stop-btn {
+  background-color: #ef233c;
+}
+
+.stop-btn-disabled {
+  background-color: #ff758f;
+}
+
+.dropdown {
+  border-radius: 15px;
+}
+
+.header {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.on {
+  background: orange;
+}
+
+.content {
+  margin: 10px 0px;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: repeat(10, 1fr);
+  gap: 5px;
+}
+
+div {
+  padding: 10px;
+  text-align: center;
+  border-style: solid;
+  font-size: 1em;
+}
