@@ -15,4 +15,4 @@ The number is generated randomly before the execution of the time outs every tim
 - Points system with a "Reset Game" button
 - 1 v 1 Mode
 
-### Link https://anthgrim.github.io/CatchTheNumber/
+### Link **[Catch The Number](https://anthgrimk.dev/CatchTheNumber/)**
