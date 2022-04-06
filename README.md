@@ -18,7 +18,7 @@ Simply download the zip folder with the source code file, or fork it into your g
 
 Link to GitHub Deployment: **[Catch The Number](https://anthgrimk.dev/CatchTheNumber/)**
 
-## Future Adds
+### Future Adds
 
 - JavaScript Refactoring
 - Media Queries for smaller screens
