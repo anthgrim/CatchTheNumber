@@ -1,4 +1,4 @@
-# Catch the Number - MIT Full Stack with MERN Challenge Extension
+# Catch the Number - MIT Full Stack with MERN - Challenge Extension
 
 ## Description
 
@@ -15,4 +15,4 @@ The number is generated randomly before the execution of the time outs every tim
 - Points system with a "Reset Game" button
 - 1 v 1 Mode
 
-### Link https://anthgrimk.dev/CatchTheNumber/
+### Link **[Catch The Number](https://anthgrimk.dev/CatchTheNumber/)**
